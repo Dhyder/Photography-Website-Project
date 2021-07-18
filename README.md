@@ -1,0 +1,8 @@
+# Photography-Website-Project
+End of week 1 project entailing photography.
+Established in 2021.
+Created by Dhyder.
+A website for all photographers globally.
+Enabling creation of a platform for shared greatness.
+Website Design below.
+![IMG_20210718_123846_6](https://user-images.githubusercontent.com/86789832/126065563-9029698e-61e8-495a-a034-90f8b7d0784b.jpg)
