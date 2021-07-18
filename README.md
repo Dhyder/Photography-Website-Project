@@ -1,6 +1,6 @@
 # Photography-Website-Project
 
-#End of week 1 project entailing photography.
+# End of week 1 project entailing photography.
 #Established in 2021.
 #Created by Dhyder.
 #A website for all photographers globally.
